@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Yidi's blog
-description: I'm trying to write a description..
+description: I'm trying to write a description.
 github_username: uqylu
 
 # Email and twitter are optional:
-email:
+email: yidi.lu@uq.edu.au
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
